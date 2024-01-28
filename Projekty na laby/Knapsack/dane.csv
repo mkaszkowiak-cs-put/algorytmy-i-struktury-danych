@@ -1,0 +1,586 @@
+Wykorzystany algorytm,Rozmiar plecaka,Liczba przedmiotów,Czas obliczeń [us]
+Algorytm siłowy,100,2,25
+Algorytm zachłanny,100,2,53
+Algorytm programowania dynamicznego,100,2,150
+Algorytm siłowy,100,3,49
+Algorytm zachłanny,100,3,18
+Algorytm programowania dynamicznego,100,3,186
+Algorytm siłowy,100,4,64
+Algorytm zachłanny,100,4,22
+Algorytm programowania dynamicznego,100,4,240
+Algorytm siłowy,100,5,126
+Algorytm zachłanny,100,5,20
+Algorytm programowania dynamicznego,100,5,276
+Algorytm siłowy,100,6,267
+Algorytm zachłanny,100,6,18
+Algorytm programowania dynamicznego,100,6,330
+Algorytm siłowy,100,7,587
+Algorytm zachłanny,100,7,20
+Algorytm programowania dynamicznego,100,7,412
+Algorytm siłowy,100,8,1286
+Algorytm zachłanny,100,8,21
+Algorytm programowania dynamicznego,100,8,427
+Algorytm siłowy,100,9,3482
+Algorytm zachłanny,100,9,25
+Algorytm programowania dynamicznego,100,9,554
+Algorytm siłowy,100,10,6410
+Algorytm zachłanny,100,10,24
+Algorytm programowania dynamicznego,100,10,718
+Algorytm siłowy,100,11,13465
+Algorytm zachłanny,100,11,38
+Algorytm programowania dynamicznego,100,11,729
+Algorytm siłowy,100,12,30050
+Algorytm zachłanny,100,12,40
+Algorytm programowania dynamicznego,100,12,669
+Algorytm siłowy,100,13,62630
+Algorytm zachłanny,100,13,41
+Algorytm programowania dynamicznego,100,13,1252
+Algorytm siłowy,100,14,139521
+Algorytm zachłanny,100,14,42
+Algorytm programowania dynamicznego,100,14,1389
+Algorytm siłowy,100,15,290100
+Algorytm zachłanny,100,15,50
+Algorytm programowania dynamicznego,100,15,1079
+Algorytm siłowy,100,16,613422
+Algorytm zachłanny,100,16,29
+Algorytm programowania dynamicznego,100,16,1336
+Algorytm siłowy,1100,2,37
+Algorytm zachłanny,1100,2,16
+Algorytm programowania dynamicznego,1100,2,1263
+Algorytm siłowy,1100,3,185
+Algorytm zachłanny,1100,3,21
+Algorytm programowania dynamicznego,1100,3,1875
+Algorytm siłowy,1100,4,62
+Algorytm zachłanny,1100,4,17
+Algorytm programowania dynamicznego,1100,4,2452
+Algorytm siłowy,1100,5,230
+Algorytm zachłanny,1100,5,13
+Algorytm programowania dynamicznego,1100,5,3267
+Algorytm siłowy,1100,6,585
+Algorytm zachłanny,1100,6,14
+Algorytm programowania dynamicznego,1100,6,3612
+Algorytm siłowy,1100,7,1083
+Algorytm zachłanny,1100,7,29
+Algorytm programowania dynamicznego,1100,7,4262
+Algorytm siłowy,1100,8,2071
+Algorytm zachłanny,1100,8,30
+Algorytm programowania dynamicznego,1100,8,4806
+Algorytm siłowy,1100,9,4211
+Algorytm zachłanny,1100,9,24
+Algorytm programowania dynamicznego,1100,9,5756
+Algorytm siłowy,1100,10,7801
+Algorytm zachłanny,1100,10,53
+Algorytm programowania dynamicznego,1100,10,10347
+Algorytm siłowy,1100,11,16423
+Algorytm zachłanny,1100,11,38
+Algorytm programowania dynamicznego,1100,11,11418
+Algorytm siłowy,1100,12,35710
+Algorytm zachłanny,1100,12,28
+Algorytm programowania dynamicznego,1100,12,8409
+Algorytm siłowy,1100,13,65566
+Algorytm zachłanny,1100,13,27
+Algorytm programowania dynamicznego,1100,13,8512
+Algorytm siłowy,1100,14,137382
+Algorytm zachłanny,1100,14,30
+Algorytm programowania dynamicznego,1100,14,8436
+Algorytm siłowy,1100,15,287641
+Algorytm zachłanny,1100,15,30
+Algorytm programowania dynamicznego,1100,15,9424
+Algorytm siłowy,1100,16,614460
+Algorytm zachłanny,1100,16,29
+Algorytm programowania dynamicznego,1100,16,11485
+Algorytm siłowy,2100,2,34
+Algorytm zachłanny,2100,2,22
+Algorytm programowania dynamicznego,2100,2,2562
+Algorytm siłowy,2100,3,183
+Algorytm zachłanny,2100,3,19
+Algorytm programowania dynamicznego,2100,3,4244
+Algorytm siłowy,2100,4,450
+Algorytm zachłanny,2100,4,36
+Algorytm programowania dynamicznego,2100,4,4619
+Algorytm siłowy,2100,5,349
+Algorytm zachłanny,2100,5,25
+Algorytm programowania dynamicznego,2100,5,6325
+Algorytm siłowy,2100,6,723
+Algorytm zachłanny,2100,6,34
+Algorytm programowania dynamicznego,2100,6,11724
+Algorytm siłowy,2100,7,1247
+Algorytm zachłanny,2100,7,30
+Algorytm programowania dynamicznego,2100,7,13854
+Algorytm siłowy,2100,8,1493
+Algorytm zachłanny,2100,8,24
+Algorytm programowania dynamicznego,2100,8,9123
+Algorytm siłowy,2100,9,2856
+Algorytm zachłanny,2100,9,26
+Algorytm programowania dynamicznego,2100,9,10285
+Algorytm siłowy,2100,10,6239
+Algorytm zachłanny,2100,10,24
+Algorytm programowania dynamicznego,2100,10,11581
+Algorytm siłowy,2100,11,17202
+Algorytm zachłanny,2100,11,39
+Algorytm programowania dynamicznego,2100,11,12712
+Algorytm siłowy,2100,12,30330
+Algorytm zachłanny,2100,12,40
+Algorytm programowania dynamicznego,2100,12,13915
+Algorytm siłowy,2100,13,66554
+Algorytm zachłanny,2100,13,39
+Algorytm programowania dynamicznego,2100,13,15890
+Algorytm siłowy,2100,14,138833
+Algorytm zachłanny,2100,14,42
+Algorytm programowania dynamicznego,2100,14,17794
+Algorytm siłowy,2100,15,295709
+Algorytm zachłanny,2100,15,43
+Algorytm programowania dynamicznego,2100,15,18638
+Algorytm siłowy,2100,16,615057
+Algorytm zachłanny,2100,16,223
+Algorytm programowania dynamicznego,2100,16,19867
+Algorytm siłowy,3100,2,35
+Algorytm zachłanny,3100,2,17
+Algorytm programowania dynamicznego,3100,2,3352
+Algorytm siłowy,3100,3,33
+Algorytm zachłanny,3100,3,24
+Algorytm programowania dynamicznego,3100,3,7025
+Algorytm siłowy,3100,4,61
+Algorytm zachłanny,3100,4,17
+Algorytm programowania dynamicznego,3100,4,7826
+Algorytm siłowy,3100,5,390
+Algorytm zachłanny,3100,5,28
+Algorytm programowania dynamicznego,3100,5,8654
+Algorytm siłowy,3100,6,461
+Algorytm zachłanny,3100,6,32
+Algorytm programowania dynamicznego,3100,6,17813
+Algorytm siłowy,3100,7,1003
+Algorytm zachłanny,3100,7,31
+Algorytm programowania dynamicznego,3100,7,20417
+Algorytm siłowy,3100,8,2226
+Algorytm zachłanny,3100,8,32
+Algorytm programowania dynamicznego,3100,8,17556
+Algorytm siłowy,3100,9,3650
+Algorytm zachłanny,3100,9,36
+Algorytm programowania dynamicznego,3100,9,15256
+Algorytm siłowy,3100,10,11440
+Algorytm zachłanny,3100,10,37
+Algorytm programowania dynamicznego,3100,10,26769
+Algorytm siłowy,3100,11,15754
+Algorytm zachłanny,3100,11,26
+Algorytm programowania dynamicznego,3100,11,19411
+Algorytm siłowy,3100,12,30445
+Algorytm zachłanny,3100,12,28
+Algorytm programowania dynamicznego,3100,12,21404
+Algorytm siłowy,3100,13,68422
+Algorytm zachłanny,3100,13,41
+Algorytm programowania dynamicznego,3100,13,23800
+Algorytm siłowy,3100,14,144349
+Algorytm zachłanny,3100,14,213
+Algorytm programowania dynamicznego,3100,14,29305
+Algorytm siłowy,3100,15,288326
+Algorytm zachłanny,3100,15,29
+Algorytm programowania dynamicznego,3100,15,38208
+Algorytm siłowy,3100,16,624857
+Algorytm zachłanny,3100,16,45
+Algorytm programowania dynamicznego,3100,16,28530
+Algorytm siłowy,4100,2,62
+Algorytm zachłanny,4100,2,16
+Algorytm programowania dynamicznego,4100,2,4371
+Algorytm siłowy,4100,3,58
+Algorytm zachłanny,4100,3,26
+Algorytm programowania dynamicznego,4100,3,6683
+Algorytm siłowy,4100,4,112
+Algorytm zachłanny,4100,4,24
+Algorytm programowania dynamicznego,4100,4,9469
+Algorytm siłowy,4100,5,125
+Algorytm zachłanny,4100,5,27
+Algorytm programowania dynamicznego,4100,5,12189
+Algorytm siłowy,4100,6,462
+Algorytm zachłanny,4100,6,29
+Algorytm programowania dynamicznego,4100,6,15174
+Algorytm siłowy,4100,7,1012
+Algorytm zachłanny,4100,7,31
+Algorytm programowania dynamicznego,4100,7,17596
+Algorytm siłowy,4100,8,2245
+Algorytm zachłanny,4100,8,21
+Algorytm programowania dynamicznego,4100,8,17975
+Algorytm siłowy,4100,9,3296
+Algorytm zachłanny,4100,9,26
+Algorytm programowania dynamicznego,4100,9,21945
+Algorytm siłowy,4100,10,6191
+Algorytm zachłanny,4100,10,28
+Algorytm programowania dynamicznego,4100,10,22652
+Algorytm siłowy,4100,11,14687
+Algorytm zachłanny,4100,11,24
+Algorytm programowania dynamicznego,4100,11,24804
+Algorytm siłowy,4100,12,30090
+Algorytm zachłanny,4100,12,39
+Algorytm programowania dynamicznego,4100,12,29284
+Algorytm siłowy,4100,13,66330
+Algorytm zachłanny,4100,13,40
+Algorytm programowania dynamicznego,4100,13,32436
+Algorytm siłowy,4100,14,140139
+Algorytm zachłanny,4100,14,44
+Algorytm programowania dynamicznego,4100,14,43482
+Algorytm siłowy,4100,15,307001
+Algorytm zachłanny,4100,15,55
+Algorytm programowania dynamicznego,4100,15,37075
+Algorytm siłowy,4100,16,616566
+Algorytm zachłanny,4100,16,225
+Algorytm programowania dynamicznego,4100,16,38813
+Algorytm siłowy,5100,2,39
+Algorytm zachłanny,5100,2,38
+Algorytm programowania dynamicznego,5100,2,5910
+Algorytm siłowy,5100,3,185
+Algorytm zachłanny,5100,3,24
+Algorytm programowania dynamicznego,5100,3,10906
+Algorytm siłowy,5100,4,284
+Algorytm zachłanny,5100,4,17
+Algorytm programowania dynamicznego,5100,4,12049
+Algorytm siłowy,5100,5,242
+Algorytm zachłanny,5100,5,19
+Algorytm programowania dynamicznego,5100,5,15435
+Algorytm siłowy,5100,6,553
+Algorytm zachłanny,5100,6,20
+Algorytm programowania dynamicznego,5100,6,17899
+Algorytm siłowy,5100,7,1013
+Algorytm zachłanny,5100,7,32
+Algorytm programowania dynamicznego,5100,7,33936
+Algorytm siłowy,5100,8,1991
+Algorytm zachłanny,5100,8,23
+Algorytm programowania dynamicznego,5100,8,23522
+Algorytm siłowy,5100,9,2840
+Algorytm zachłanny,5100,9,27
+Algorytm programowania dynamicznego,5100,9,25413
+Algorytm siłowy,5100,10,8009
+Algorytm zachłanny,5100,10,36
+Algorytm programowania dynamicznego,5100,10,47901
+Algorytm siłowy,5100,11,14232
+Algorytm zachłanny,5100,11,27
+Algorytm programowania dynamicznego,5100,11,31745
+Algorytm siłowy,5100,12,30462
+Algorytm zachłanny,5100,12,360
+Algorytm programowania dynamicznego,5100,12,36384
+Algorytm siłowy,5100,13,64348
+Algorytm zachłanny,5100,13,28
+Algorytm programowania dynamicznego,5100,13,38005
+Algorytm siłowy,5100,14,140642
+Algorytm zachłanny,5100,14,28
+Algorytm programowania dynamicznego,5100,14,43149
+Algorytm siłowy,5100,15,293400
+Algorytm zachłanny,5100,15,220
+Algorytm programowania dynamicznego,5100,15,45168
+Algorytm siłowy,5100,16,621032
+Algorytm zachłanny,5100,16,44
+Algorytm programowania dynamicznego,5100,16,52053
+Algorytm siłowy,6100,2,39
+Algorytm zachłanny,6100,2,23
+Algorytm programowania dynamicznego,6100,2,6612
+Algorytm siłowy,6100,3,33
+Algorytm zachłanny,6100,3,20
+Algorytm programowania dynamicznego,6100,3,10957
+Algorytm siłowy,6100,4,61
+Algorytm zachłanny,6100,4,172
+Algorytm programowania dynamicznego,6100,4,15546
+Algorytm siłowy,6100,5,128
+Algorytm zachłanny,6100,5,28
+Algorytm programowania dynamicznego,6100,5,17193
+Algorytm siłowy,6100,6,273
+Algorytm zachłanny,6100,6,30
+Algorytm programowania dynamicznego,6100,6,20158
+Algorytm siłowy,6100,7,582
+Algorytm zachłanny,6100,7,22
+Algorytm programowania dynamicznego,6100,7,23809
+Algorytm siłowy,6100,8,2292
+Algorytm zachłanny,6100,8,26
+Algorytm programowania dynamicznego,6100,8,30417
+Algorytm siłowy,6100,9,3266
+Algorytm zachłanny,6100,9,24
+Algorytm programowania dynamicznego,6100,9,33455
+Algorytm siłowy,6100,10,7032
+Algorytm zachłanny,6100,10,24
+Algorytm programowania dynamicznego,6100,10,39989
+Algorytm siłowy,6100,11,15904
+Algorytm zachłanny,6100,11,37
+Algorytm programowania dynamicznego,6100,11,39418
+Algorytm siłowy,6100,12,33470
+Algorytm zachłanny,6100,12,23
+Algorytm programowania dynamicznego,6100,12,41979
+Algorytm siłowy,6100,13,63408
+Algorytm zachłanny,6100,13,25
+Algorytm programowania dynamicznego,6100,13,42173
+Algorytm siłowy,6100,14,129989
+Algorytm zachłanny,6100,14,189
+Algorytm programowania dynamicznego,6100,14,46729
+Algorytm siłowy,6100,15,262816
+Algorytm zachłanny,6100,15,25
+Algorytm programowania dynamicznego,6100,15,42081
+Algorytm siłowy,6100,16,438222
+Algorytm zachłanny,6100,16,21
+Algorytm programowania dynamicznego,6100,16,39062
+Algorytm siłowy,7100,2,36
+Algorytm zachłanny,7100,2,17
+Algorytm programowania dynamicznego,7100,2,7821
+Algorytm siłowy,7100,3,47
+Algorytm zachłanny,7100,3,14
+Algorytm programowania dynamicznego,7100,3,7821
+Algorytm siłowy,7100,4,40
+Algorytm zachłanny,7100,4,19
+Algorytm programowania dynamicznego,7100,4,11766
+Algorytm siłowy,7100,5,177
+Algorytm zachłanny,7100,5,23
+Algorytm programowania dynamicznego,7100,5,14905
+Algorytm siłowy,7100,6,172
+Algorytm zachłanny,7100,6,24
+Algorytm programowania dynamicznego,7100,6,16094
+Algorytm siłowy,7100,7,833
+Algorytm zachłanny,7100,7,27
+Algorytm programowania dynamicznego,7100,7,20176
+Algorytm siłowy,7100,8,1495
+Algorytm zachłanny,7100,8,17
+Algorytm programowania dynamicznego,7100,8,24363
+Algorytm siłowy,7100,9,2545
+Algorytm zachłanny,7100,9,17
+Algorytm programowania dynamicznego,7100,9,22390
+Algorytm siłowy,7100,10,5590
+Algorytm zachłanny,7100,10,17
+Algorytm programowania dynamicznego,7100,10,29580
+Algorytm siłowy,7100,11,8563
+Algorytm zachłanny,7100,11,30
+Algorytm programowania dynamicznego,7100,11,29589
+Algorytm siłowy,7100,12,19585
+Algorytm zachłanny,7100,12,31
+Algorytm programowania dynamicznego,7100,12,34114
+Algorytm siłowy,7100,13,41219
+Algorytm zachłanny,7100,13,18
+Algorytm programowania dynamicznego,7100,13,34752
+Algorytm siłowy,7100,14,86250
+Algorytm zachłanny,7100,14,35
+Algorytm programowania dynamicznego,7100,14,68487
+Algorytm siłowy,7100,15,177284
+Algorytm zachłanny,7100,15,36
+Algorytm programowania dynamicznego,7100,15,38995
+Algorytm siłowy,7100,16,377382
+Algorytm zachłanny,7100,16,20
+Algorytm programowania dynamicznego,7100,16,42954
+Algorytm siłowy,8100,2,24
+Algorytm zachłanny,8100,2,122
+Algorytm programowania dynamicznego,8100,2,6170
+Algorytm siłowy,8100,3,21
+Algorytm zachłanny,8100,3,12
+Algorytm programowania dynamicznego,8100,3,8142
+Algorytm siłowy,8100,4,201
+Algorytm zachłanny,8100,4,110
+Algorytm programowania dynamicznego,8100,4,14036
+Algorytm siłowy,8100,5,328
+Algorytm zachłanny,8100,5,113
+Algorytm programowania dynamicznego,8100,5,15443
+Algorytm siłowy,8100,6,521
+Algorytm zachłanny,8100,6,16
+Algorytm programowania dynamicznego,8100,6,18663
+Algorytm siłowy,8100,7,826
+Algorytm zachłanny,8100,7,20
+Algorytm programowania dynamicznego,8100,7,22213
+Algorytm siłowy,8100,8,945
+Algorytm zachłanny,8100,8,16
+Algorytm programowania dynamicznego,8100,8,22753
+Algorytm siłowy,8100,9,1859
+Algorytm zachłanny,8100,9,17
+Algorytm programowania dynamicznego,8100,9,30642
+Algorytm siłowy,8100,10,3758
+Algorytm zachłanny,8100,10,19
+Algorytm programowania dynamicznego,8100,10,29854
+Algorytm siłowy,8100,11,10264
+Algorytm zachłanny,8100,11,32
+Algorytm programowania dynamicznego,8100,11,32731
+Algorytm siłowy,8100,12,18875
+Algorytm zachłanny,8100,12,31
+Algorytm programowania dynamicznego,8100,12,35063
+Algorytm siłowy,8100,13,41416
+Algorytm zachłanny,8100,13,32
+Algorytm programowania dynamicznego,8100,13,37884
+Algorytm siłowy,8100,14,85545
+Algorytm zachłanny,8100,14,20
+Algorytm programowania dynamicznego,8100,14,39308
+Algorytm siłowy,8100,15,186501
+Algorytm zachłanny,8100,15,19
+Algorytm programowania dynamicznego,8100,15,45109
+Algorytm siłowy,8100,16,377395
+Algorytm zachłanny,8100,16,20
+Algorytm programowania dynamicznego,8100,16,47178
+Algorytm siłowy,9100,2,26
+Algorytm zachłanny,9100,2,120
+Algorytm programowania dynamicznego,9100,2,7139
+Algorytm siłowy,9100,3,22
+Algorytm zachłanny,9100,3,115
+Algorytm programowania dynamicznego,9100,3,10044
+Algorytm siłowy,9100,4,944
+Algorytm zachłanny,9100,4,13
+Algorytm programowania dynamicznego,9100,4,12966
+Algorytm siłowy,9100,5,338
+Algorytm zachłanny,9100,5,113
+Algorytm programowania dynamicznego,9100,5,19799
+Algorytm siłowy,9100,6,171
+Algorytm zachłanny,9100,6,82
+Algorytm programowania dynamicznego,9100,6,20633
+Algorytm siłowy,9100,7,993
+Algorytm zachłanny,9100,7,16
+Algorytm programowania dynamicznego,9100,7,27099
+Algorytm siłowy,9100,8,1822
+Algorytm zachłanny,9100,8,18
+Algorytm programowania dynamicznego,9100,8,27887
+Algorytm siłowy,9100,9,1743
+Algorytm zachłanny,9100,9,17
+Algorytm programowania dynamicznego,9100,9,29008
+Algorytm siłowy,9100,10,4170
+Algorytm zachłanny,9100,10,18
+Algorytm programowania dynamicznego,9100,10,36198
+Algorytm siłowy,9100,11,11852
+Algorytm zachłanny,9100,11,39
+Algorytm programowania dynamicznego,9100,11,36520
+Algorytm siłowy,9100,12,19115
+Algorytm zachłanny,9100,12,18
+Algorytm programowania dynamicznego,9100,12,36882
+Algorytm siłowy,9100,13,40288
+Algorytm zachłanny,9100,13,21
+Algorytm programowania dynamicznego,9100,13,44767
+Algorytm siłowy,9100,14,88970
+Algorytm zachłanny,9100,14,20
+Algorytm programowania dynamicznego,9100,14,46529
+Algorytm siłowy,9100,15,181070
+Algorytm zachłanny,9100,15,20
+Algorytm programowania dynamicznego,9100,15,53189
+Algorytm siłowy,9100,16,383250
+Algorytm zachłanny,9100,16,37
+Algorytm programowania dynamicznego,9100,16,64682
+Algorytm siłowy,10100,2,42
+Algorytm zachłanny,10100,2,28
+Algorytm programowania dynamicznego,10100,2,8148
+Algorytm siłowy,10100,3,45
+Algorytm zachłanny,10100,3,27
+Algorytm programowania dynamicznego,10100,3,27077
+Algorytm siłowy,10100,4,104
+Algorytm zachłanny,10100,4,38
+Algorytm programowania dynamicznego,10100,4,13653
+Algorytm siłowy,10100,5,168
+Algorytm zachłanny,10100,5,22
+Algorytm programowania dynamicznego,10100,5,29831
+Algorytm siłowy,10100,6,164
+Algorytm zachłanny,10100,6,24
+Algorytm programowania dynamicznego,10100,6,21003
+Algorytm siłowy,10100,7,369
+Algorytm zachłanny,10100,7,24
+Algorytm programowania dynamicznego,10100,7,24593
+Algorytm siłowy,10100,8,786
+Algorytm zachłanny,10100,8,16
+Algorytm programowania dynamicznego,10100,8,28559
+Algorytm siłowy,10100,9,1913
+Algorytm zachłanny,10100,9,142
+Algorytm programowania dynamicznego,10100,9,33588
+Algorytm siłowy,10100,10,4211
+Algorytm zachłanny,10100,10,21
+Algorytm programowania dynamicznego,10100,10,41431
+Algorytm siłowy,10100,11,11575
+Algorytm zachłanny,10100,11,32
+Algorytm programowania dynamicznego,10100,11,41144
+Algorytm siłowy,10100,12,20939
+Algorytm zachłanny,10100,12,18
+Algorytm programowania dynamicznego,10100,12,44638
+Algorytm siłowy,10100,13,41757
+Algorytm zachłanny,10100,13,17
+Algorytm programowania dynamicznego,10100,13,50976
+Algorytm siłowy,10100,14,86500
+Algorytm zachłanny,10100,14,19
+Algorytm programowania dynamicznego,10100,14,54034
+Algorytm siłowy,10100,15,184277
+Algorytm zachłanny,10100,15,34
+Algorytm programowania dynamicznego,10100,15,63288
+Algorytm siłowy,10100,16,388381
+Algorytm zachłanny,10100,16,34
+Algorytm programowania dynamicznego,10100,16,58167
+Algorytm siłowy,11100,2,39
+Algorytm zachłanny,11100,2,32
+Algorytm programowania dynamicznego,11100,2,7762
+Algorytm siłowy,11100,3,50
+Algorytm zachłanny,11100,3,15
+Algorytm programowania dynamicznego,11100,3,11315
+Algorytm siłowy,11100,4,40
+Algorytm zachłanny,11100,4,15
+Algorytm programowania dynamicznego,11100,4,14999
+Algorytm siłowy,11100,5,79
+Algorytm zachłanny,11100,5,24
+Algorytm programowania dynamicznego,11100,5,18583
+Algorytm siłowy,11100,6,164
+Algorytm zachłanny,11100,6,15
+Algorytm programowania dynamicznego,11100,6,25520
+Algorytm siłowy,11100,7,800
+Algorytm zachłanny,11100,7,15
+Algorytm programowania dynamicznego,11100,7,26839
+Algorytm siłowy,11100,8,953
+Algorytm zachłanny,11100,8,21
+Algorytm programowania dynamicznego,11100,8,29809
+Algorytm siłowy,11100,9,3436
+Algorytm zachłanny,11100,9,20
+Algorytm programowania dynamicznego,11100,9,34159
+Algorytm siłowy,11100,10,4307
+Algorytm zachłanny,11100,10,17
+Algorytm programowania dynamicznego,11100,10,38234
+Algorytm siłowy,11100,11,9633
+Algorytm zachłanny,11100,11,18
+Algorytm programowania dynamicznego,11100,11,46560
+Algorytm siłowy,11100,12,21740
+Algorytm zachłanny,11100,12,138
+Algorytm programowania dynamicznego,11100,12,52411
+Algorytm siłowy,11100,13,42922
+Algorytm zachłanny,11100,13,19
+Algorytm programowania dynamicznego,11100,13,53424
+Algorytm siłowy,11100,14,89209
+Algorytm zachłanny,11100,14,19
+Algorytm programowania dynamicznego,11100,14,57282
+Algorytm siłowy,11100,15,197753
+Algorytm zachłanny,11100,15,35
+Algorytm programowania dynamicznego,11100,15,75244
+Algorytm siłowy,11100,16,376974
+Algorytm zachłanny,11100,16,35
+Algorytm programowania dynamicznego,11100,16,62835
+Algorytm siłowy,12100,2,25
+Algorytm zachłanny,12100,2,25
+Algorytm programowania dynamicznego,12100,2,9009
+Algorytm siłowy,12100,3,44
+Algorytm zachłanny,12100,3,109
+Algorytm programowania dynamicznego,12100,3,15994
+Algorytm siłowy,12100,4,252
+Algorytm zachłanny,12100,4,168
+Algorytm programowania dynamicznego,12100,4,19130
+Algorytm siłowy,12100,5,345
+Algorytm zachłanny,12100,5,113
+Algorytm programowania dynamicznego,12100,5,22072
+Algorytm siłowy,12100,6,540
+Algorytm zachłanny,12100,6,16
+Algorytm programowania dynamicznego,12100,6,25713
+Algorytm siłowy,12100,7,723
+Algorytm zachłanny,12100,7,18
+Algorytm programowania dynamicznego,12100,7,31704
+Algorytm siłowy,12100,8,1953
+Algorytm zachłanny,12100,8,17
+Algorytm programowania dynamicznego,12100,8,36867
+Algorytm siłowy,12100,9,3009
+Algorytm zachłanny,12100,9,87
+Algorytm programowania dynamicznego,12100,9,40237
+Algorytm siłowy,12100,10,4433
+Algorytm zachłanny,12100,10,23
+Algorytm programowania dynamicznego,12100,10,44789
+Algorytm siłowy,12100,11,10544
+Algorytm zachłanny,12100,11,29
+Algorytm programowania dynamicznego,12100,11,74466
+Algorytm siłowy,12100,12,19230
+Algorytm zachłanny,12100,12,20
+Algorytm programowania dynamicznego,12100,12,52471
+Algorytm siłowy,12100,13,41159
+Algorytm zachłanny,12100,13,34
+Algorytm programowania dynamicznego,12100,13,56401
+Algorytm siłowy,12100,14,87407
+Algorytm zachłanny,12100,14,20
+Algorytm programowania dynamicznego,12100,14,61978
+Algorytm siłowy,12100,15,181638
+Algorytm zachłanny,12100,15,35
+Algorytm programowania dynamicznego,12100,15,67072
+Algorytm siłowy,12100,16,377593
+Algorytm zachłanny,12100,16,37
+Algorytm programowania dynamicznego,12100,16,65904
